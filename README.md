@@ -147,8 +147,5 @@ include $(NVBOARD_HOME)/scripts/nvboard.mk
 
 7端数码管的相关参数：
 最后一位是小数点，1的时候小数点灭了，0的时候小数点亮了。
-   6
- 1    5
-    0
- 2    4 
-   3
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/d48cd1cb-28a2-4579-8c27-e0cd524da08b">
+
