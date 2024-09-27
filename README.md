@@ -143,3 +143,12 @@ include $(NVBOARD_HOME)/scripts/nvboard.mk
 * 在生成verilator仿真可执行文件(即`$(NVBOARD_ARCHIVE)`)将这个库文件加入链接过程，并添加链接选项`-lSDL2 -lSDL2_image`
 
 可以参考示例项目中的Makefile文件，即`example/Makefile`
+
+
+7端数码管的相关参数：
+最后一位是小数点，1的时候小数点灭了，0的时候小数点亮了。
+   6
+ 1    5
+    0
+ 2    4 
+   3
